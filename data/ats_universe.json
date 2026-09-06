@@ -1408,5 +1408,11 @@
   "sector": "energy_finance",
   "ats": "workable",
   "slug": "gridcog"
+ },
+ {
+  "company": "Intigriti",
+  "sector": "cybersecurity",
+  "ats": "recruitee",
+  "slug": "intigriti"
  }
 ]
