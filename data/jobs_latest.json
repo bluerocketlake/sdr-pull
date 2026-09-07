@@ -60,6 +60,16 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Representative",
+  "company": "Yapily",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/EE7B219746",
+  "source": "ATS/workable",
+  "slug": "yapily",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Manager",
   "company": "Funding Circle",
   "location": "London",
@@ -86,6 +96,26 @@
   "url": "https://jobs.ashbyhq.com/teya/ffc6d1d9-810d-43d4-b9f2-c2df422c7423",
   "source": "ATS/ashby",
   "slug": "teya",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative - German Speaking",
+  "company": "Nuvei",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/E12850D7C9",
+  "source": "ATS/workable",
+  "slug": "nuvei",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative - Hebrew Speaking",
+  "company": "Nuvei",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/6DC17BDF1B",
+  "source": "ATS/workable",
+  "slug": "nuvei",
   "sector": "fintech",
   "salary": ""
  },
@@ -272,8 +302,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, North America",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
+  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -536,16 +566,6 @@
   "url": "https://jobs.lever.co/outreach/f856290a-e62e-4748-9247-2728acd03360",
   "source": "ATS/lever",
   "slug": "outreach",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
-  "title": "Senior Business Development Representative [Enterprise]",
-  "company": "Mindtickle",
-  "location": "Remote, US",
-  "url": "https://jobs.lever.co/mindtickle/f0f6a4ac-7d5f-4c86-9946-85e2ebe15c11",
-  "source": "ATS/lever",
-  "slug": "mindtickle",
   "sector": "salestech_b2b",
   "salary": ""
  },
