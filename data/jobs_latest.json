@@ -60,12 +60,12 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative",
-  "company": "Yapily",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/EE7B219746",
-  "source": "ATS/workable",
-  "slug": "yapily",
+  "title": "Business Development Representative",
+  "company": "Paddle",
+  "location": "UK",
+  "url": "https://jobs.ashbyhq.com/paddle/008fabd1-7f7a-41f0-a8e2-7111e20c5ee4",
+  "source": "ATS/ashby",
+  "slug": "paddle",
   "sector": "fintech",
   "salary": ""
  },
@@ -96,26 +96,6 @@
   "url": "https://jobs.ashbyhq.com/teya/ffc6d1d9-810d-43d4-b9f2-c2df422c7423",
   "source": "ATS/ashby",
   "slug": "teya",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative - German Speaking",
-  "company": "Nuvei",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/E12850D7C9",
-  "source": "ATS/workable",
-  "slug": "nuvei",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative - Hebrew Speaking",
-  "company": "Nuvei",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/6DC17BDF1B",
-  "source": "ATS/workable",
-  "slug": "nuvei",
   "sector": "fintech",
   "salary": ""
  },
@@ -302,8 +282,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "location": "Remote, North America",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -520,6 +500,16 @@
   "salary": ""
  },
  {
+  "title": "Business Development Representative - Italian Speaking",
+  "company": "BeyondTrust",
+  "location": "Hybrid Manchester, UK",
+  "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8175068",
+  "source": "ATS/greenhouse",
+  "slug": "beyondtrust",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative, Dutch Speaking",
   "company": "Abnormal Security",
   "location": "Remote - UK",
@@ -616,6 +606,16 @@
   "url": "https://jobs.lever.co/contentsquare/0ab78722-f903-4c87-b5e2-19c21630295c",
   "source": "ATS/lever",
   "slug": "contentsquare",
+  "sector": "salestech_b2b",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative",
+  "company": "Dovetail",
+  "location": "US Remote",
+  "url": "https://jobs.ashbyhq.com/dovetail/26ebd1c1-f5b1-4b84-928c-dce24d685232",
+  "source": "ATS/ashby",
+  "slug": "dovetail",
   "sector": "salestech_b2b",
   "salary": ""
  },

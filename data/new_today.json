@@ -1,1 +1,32 @@
-[]
+[
+ {
+  "title": "Business Development Representative",
+  "company": "Paddle",
+  "location": "UK",
+  "url": "https://jobs.ashbyhq.com/paddle/008fabd1-7f7a-41f0-a8e2-7111e20c5ee4",
+  "source": "ATS/ashby",
+  "slug": "paddle",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative - Italian Speaking",
+  "company": "BeyondTrust",
+  "location": "Hybrid Manchester, UK",
+  "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8175068",
+  "source": "ATS/greenhouse",
+  "slug": "beyondtrust",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative",
+  "company": "Dovetail",
+  "location": "US Remote",
+  "url": "https://jobs.ashbyhq.com/dovetail/26ebd1c1-f5b1-4b84-928c-dce24d685232",
+  "source": "ATS/ashby",
+  "slug": "dovetail",
+  "sector": "salestech_b2b",
+  "salary": ""
+ }
+]
