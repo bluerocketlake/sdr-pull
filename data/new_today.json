@@ -1,31 +1,21 @@
 [
  {
-  "title": "Business Development Representative",
-  "company": "Paddle",
-  "location": "UK",
-  "url": "https://jobs.ashbyhq.com/paddle/008fabd1-7f7a-41f0-a8e2-7111e20c5ee4",
-  "source": "ATS/ashby",
-  "slug": "paddle",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative - Italian Speaking",
-  "company": "BeyondTrust",
-  "location": "Hybrid Manchester, UK",
-  "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8175068",
+  "title": "Business Development Representative, Turkish Speaking",
+  "company": "GitLab",
+  "location": "Remote Ireland; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8784553002",
   "source": "ATS/greenhouse",
-  "slug": "beyondtrust",
-  "sector": "cybersecurity",
+  "slug": "gitlab",
+  "sector": "cloudinfra",
   "salary": ""
  },
  {
-  "title": "Sales Development Representative",
-  "company": "Dovetail",
-  "location": "US Remote",
-  "url": "https://jobs.ashbyhq.com/dovetail/26ebd1c1-f5b1-4b84-928c-dce24d685232",
-  "source": "ATS/ashby",
-  "slug": "dovetail",
+  "title": "Business Development Representative",
+  "company": "Showpad",
+  "location": "London",
+  "url": "https://job-boards.greenhouse.io/showpad/jobs/8153881",
+  "source": "ATS/greenhouse",
+  "slug": "showpad",
   "sector": "salestech_b2b",
   "salary": ""
  }

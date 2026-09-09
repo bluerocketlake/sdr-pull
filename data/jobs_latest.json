@@ -100,6 +100,16 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Representative",
+  "company": "Teya",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/teya/6840cc2b-e727-465c-973d-34ab289fa6fc",
+  "source": "ATS/ashby",
+  "slug": "teya",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative - US",
   "company": "Fingerprint",
   "location": "Remote",
@@ -310,6 +320,16 @@
   "salary": ""
  },
  {
+  "title": "Business Development Representative, Turkish Speaking",
+  "company": "GitLab",
+  "location": "Remote Ireland; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8784553002",
+  "source": "ATS/greenhouse",
+  "slug": "gitlab",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
   "title": "Inbound Sales Development Representative - EMEA",
   "company": "LaunchDarkly",
   "location": "London, England, United Kingdom",
@@ -397,16 +417,6 @@
   "source": "ATS/greenhouse",
   "slug": "hightouch",
   "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Specialist",
-  "company": "Zscaler",
-  "location": "City of London Corporation, GBR",
-  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5196281007",
-  "source": "ATS/greenhouse",
-  "slug": "zscaler",
-  "sector": "cybersecurity",
   "salary": ""
  },
  {
@@ -510,16 +520,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative, Dutch Speaking",
-  "company": "Abnormal Security",
-  "location": "Remote - UK",
-  "url": "https://abnormal.ai/careers/jobs/7779893003?gh_jid=7779893003",
-  "source": "ATS/greenhouse",
-  "slug": "abnormalsecurity",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
   "title": "Business Development Representative [German Fluency]",
   "company": "Vanta",
   "location": "London, UK",
@@ -543,7 +543,7 @@
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
   "sector": "salestech_b2b",
@@ -556,6 +556,16 @@
   "url": "https://jobs.lever.co/outreach/f856290a-e62e-4748-9247-2728acd03360",
   "source": "ATS/lever",
   "slug": "outreach",
+  "sector": "salestech_b2b",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative",
+  "company": "Showpad",
+  "location": "London",
+  "url": "https://job-boards.greenhouse.io/showpad/jobs/8153881",
+  "source": "ATS/greenhouse",
+  "slug": "showpad",
   "sector": "salestech_b2b",
   "salary": ""
  },
@@ -596,16 +606,6 @@
   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8128070",
   "source": "ATS/greenhouse",
   "slug": "mixpanel",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative, UKI",
-  "company": "Contentsquare",
-  "location": "London",
-  "url": "https://jobs.lever.co/contentsquare/0ab78722-f903-4c87-b5e2-19c21630295c",
-  "source": "ATS/lever",
-  "slug": "contentsquare",
   "sector": "salestech_b2b",
   "salary": ""
  },
