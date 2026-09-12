@@ -150,6 +150,16 @@
   "salary": ""
  },
  {
+  "title": "BDR Manager - EMEA",
+  "company": "Vertice",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/vertice/ce648655-de0c-4782-b4a7-a9d0424cb7df",
+  "source": "ATS/ashby",
+  "slug": "vertice",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Business Development Representative",
   "company": "JFrog",
   "location": "london, uk",
@@ -166,6 +176,16 @@
   "url": "https://join.jfrog.com/job/?job=7978704&gh_jid=7978704",
   "source": "ATS/greenhouse",
   "slug": "jfrog",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Inside Sales Representative (Junior Account Executive)",
+  "company": "Sysdig",
+  "location": "Flexible - United Kingdom",
+  "url": "https://jobs.lever.co/sysdig/f6e8848f-dc19-4577-96cd-fc9e55b56c9b",
+  "source": "ATS/lever",
+  "slug": "sysdig",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -282,8 +302,18 @@
  {
   "title": "Senior Sales Development Representative (German-speaking, UK)",
   "company": "Coder",
-  "location": "London",
+  "location": "United Kingdom",
   "url": "https://jobs.ashbyhq.com/coder/9605615c-db33-496d-8173-fc9caf3b6869",
+  "source": "ATS/ashby",
+  "slug": "coder",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Senior Sales Development Representative (UK)",
+  "company": "Coder",
+  "location": "United Kingdom",
+  "url": "https://jobs.ashbyhq.com/coder/c54c5de4-2380-4672-a15f-820e1ac09410",
   "source": "ATS/ashby",
   "slug": "coder",
   "sector": "cloudinfra",
@@ -397,16 +427,6 @@
   "source": "ATS/greenhouse",
   "slug": "hightouch",
   "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative, SMB (German)",
-  "company": "1Password",
-  "location": "London, UK",
-  "url": "https://jobs.ashbyhq.com/1password/1bc2d854-56ec-4d4f-88ff-b6278196b1e7",
-  "source": "ATS/ashby",
-  "slug": "1password",
-  "sector": "cybersecurity",
   "salary": ""
  },
  {
