@@ -1414,5 +1414,11 @@
   "sector": "cybersecurity",
   "ats": "recruitee",
   "slug": "intigriti"
+ },
+ {
+  "company": "Artificial Labs",
+  "sector": "energy_finance",
+  "ats": "ashby",
+  "slug": "artificial"
  }
 ]
