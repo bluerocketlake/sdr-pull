@@ -130,7 +130,7 @@
   "salary": ""
  },
  {
-  "title": "Business Development Executive, Public Sector (Europe)",
+  "title": "Business Development Executive, Public Sector (EMEA)",
   "company": "TRM Labs",
   "location": "United Kingdom",
   "url": "https://jobs.ashbyhq.com/trm-labs/fa2669bc-c77f-42a3-bae5-2c71d16ecca5",
@@ -322,7 +322,7 @@
  {
   "title": "Senior Sales Development Representative (UK)",
   "company": "Coder",
-  "location": "United Kingdom",
+  "location": "London",
   "url": "https://jobs.ashbyhq.com/coder/c54c5de4-2380-4672-a15f-820e1ac09410",
   "source": "ATS/ashby",
   "slug": "coder",
@@ -334,16 +334,6 @@
   "company": "GitLab",
   "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
-  "source": "ATS/greenhouse",
-  "slug": "gitlab",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative - Nordics",
-  "company": "GitLab",
-  "location": "Remote Ireland; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687381002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -553,7 +543,7 @@
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
   "sector": "salestech_b2b",
