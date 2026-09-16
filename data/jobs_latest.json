@@ -110,16 +110,6 @@
   "salary": ""
  },
  {
-  "title": "Business Development Representative",
-  "company": "ComplyAdvantage",
-  "location": "London, England, United Kingdom",
-  "url": "https://complyadvantage.com/careers/jobs/8785705002?gh_jid=8785705002",
-  "source": "ATS/greenhouse",
-  "slug": "complyadvantage",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Sales Development Representative - US",
   "company": "Fingerprint",
   "location": "Remote",
@@ -196,16 +186,6 @@
   "url": "https://jobs.lever.co/sysdig/f6e8848f-dc19-4577-96cd-fc9e55b56c9b",
   "source": "ATS/lever",
   "slug": "sysdig",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Rep - EMEA",
-  "company": "Honeycomb",
-  "location": "Remote - United Kingdom",
-  "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5367252008",
-  "source": "ATS/greenhouse",
-  "slug": "honeycomb",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -380,6 +360,16 @@
   "salary": ""
  },
  {
+  "title": "Business Development Representative",
+  "company": "Incident.io",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/incident/9310b907-e008-4d7d-a898-e82db447d97f",
+  "source": "ATS/ashby",
+  "slug": "incident",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
   "title": "Business Development Representative - London - German Speaker",
   "company": "PagerDuty",
   "location": "London",
@@ -394,6 +384,16 @@
   "company": "Fivetran",
   "location": "London, England, United Kingdom",
   "url": "https://www.fivetran.com/careers/job?gh_jid=7857955003",
+  "source": "ATS/greenhouse",
+  "slug": "fivetran",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative II, Enterprise",
+  "company": "Fivetran",
+  "location": "London, England, United Kingdom",
+  "url": "https://www.fivetran.com/careers/job?gh_jid=7990897003",
   "source": "ATS/greenhouse",
   "slug": "fivetran",
   "sector": "cloudinfra",
@@ -493,7 +493,7 @@
   "title": "Inside Sales Representative, SMB",
   "company": "Keeper Security",
   "location": "Remote, US",
-  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4107820009",
+  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4317310009",
   "source": "ATS/greenhouse",
   "slug": "keepersecurity",
   "sector": "cybersecurity",
