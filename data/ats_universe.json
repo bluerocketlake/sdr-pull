@@ -1420,5 +1420,11 @@
   "sector": "energy_finance",
   "ats": "ashby",
   "slug": "artificial"
+ },
+ {
+  "company": "Snyk",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "snyk"
  }
 ]

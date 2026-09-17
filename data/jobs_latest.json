@@ -140,16 +140,6 @@
   "salary": ""
  },
  {
-  "title": "Business Development Representative - Enterprise",
-  "company": "Vertice",
-  "location": "London",
-  "url": "https://jobs.ashbyhq.com/vertice/d3edb518-ff1b-4003-a656-e68bc6e2871b",
-  "source": "ATS/ashby",
-  "slug": "vertice",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "BDR Manager - EMEA",
   "company": "Vertice",
   "location": "London",
@@ -493,7 +483,7 @@
   "title": "Inside Sales Representative, SMB",
   "company": "Keeper Security",
   "location": "Remote, US",
-  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4317310009",
+  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4107820009",
   "source": "ATS/greenhouse",
   "slug": "keepersecurity",
   "sector": "cybersecurity",
@@ -543,7 +533,7 @@
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
   "sector": "salestech_b2b",
