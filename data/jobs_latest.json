@@ -302,8 +302,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "location": "Remote, North America",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -316,16 +316,6 @@
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8784553002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Inbound Sales Development Representative - EMEA",
-  "company": "LaunchDarkly",
-  "location": "London, England, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7732479003",
-  "source": "ATS/greenhouse",
-  "slug": "launchdarkly",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -360,7 +350,7 @@
   "salary": ""
  },
  {
-  "title": "Business Development Representative - London - German Speaker",
+  "title": "Business Development Representative - London",
   "company": "PagerDuty",
   "location": "London",
   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6144822004",

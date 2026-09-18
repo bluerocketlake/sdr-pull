@@ -1,5 +1,5 @@
 {
- "cursor": 86,
+ "cursor": 146,
  "unresolved": [
   "Revolut",
   "Checkout.com",
@@ -47,7 +47,6 @@
   "HashiCorp",
   "Harness",
   "Sonar",
-  "Snyk",
   "Dynatrace",
   "Chronosphere",
   "Redpanda",
