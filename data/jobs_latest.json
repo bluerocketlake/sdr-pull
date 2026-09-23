@@ -213,7 +213,7 @@
   "title": "Sales Development Representative",
   "company": "Snowflake",
   "location": "GB-London",
-  "url": "https://jobs.ashbyhq.com/snowflake/e2b03b7a-2c85-4599-8b04-8757c582d226",
+  "url": "https://jobs.ashbyhq.com/snowflake/b1c29819-f084-4cdd-a4bb-e8adc57a8d1b",
   "source": "ATS/ashby",
   "slug": "snowflake",
   "sector": "cloudinfra",
@@ -342,8 +342,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, North America",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
+  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -467,6 +467,16 @@
   "source": "ATS/greenhouse",
   "slug": "hightouch",
   "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative",
+  "company": "Veracode",
+  "location": "London, UK",
+  "url": "https://www.veracode.com/career/job?gh_jid=8817372002",
+  "source": "ATS/greenhouse",
+  "slug": "veracode",
+  "sector": "cybersecurity",
   "salary": ""
  },
  {
