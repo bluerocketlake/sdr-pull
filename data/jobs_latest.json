@@ -70,32 +70,12 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative",
-  "company": "Yapily",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/EE7B219746",
-  "source": "ATS/workable",
-  "slug": "yapily",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Sales Development Manager",
   "company": "Funding Circle",
   "location": "London",
   "url": "https://jobs.ashbyhq.com/fundingcircle/d8f55110-423f-46e4-b213-d205c18b3531",
   "source": "ATS/ashby",
   "slug": "fundingcircle",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative (Mid-Market & Enterprise)",
-  "company": "Dojo",
-  "location": "London",
-  "url": "https://www.dojo.careers/jobs/4761482101/?gh_jid=4761482101",
-  "source": "ATS/greenhouse",
-  "slug": "dojo",
   "sector": "fintech",
   "salary": ""
  },
@@ -136,6 +116,16 @@
   "url": "https://fingerprint.com/careers/jobs/apply/?gh_jid=6115777004",
   "source": "ATS/greenhouse",
   "slug": "fingerprint",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Inside Sales Representative - EMEA",
+  "company": "Elliptic",
+  "location": "London, United Kingdom",
+  "url": "https://jobs.ashbyhq.com/elliptic/7d116372-5f33-49cb-aa56-04ffc55e9cc0",
+  "source": "ATS/ashby",
+  "slug": "elliptic",
   "sector": "fintech",
   "salary": ""
  },
@@ -200,6 +190,16 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Representative - DACH Territory",
+  "company": "Cribl",
+  "location": "Remote - London, United Kingdom",
+  "url": "https://cribl.io/job-detail/?gh_jid=6077488004",
+  "source": "ATS/greenhouse",
+  "slug": "cribl",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative (German Speaker), Observability",
   "company": "Snowflake",
   "location": "GB-London",
@@ -230,10 +230,30 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Representative - French speaking",
+  "company": "Redis",
+  "location": "London, England",
+  "url": "https://jobs.ashbyhq.com/redis/a50e91a6-8e70-443a-9d17-2738f5473d54",
+  "source": "ATS/ashby",
+  "slug": "redis",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative - German speaking",
   "company": "Redis",
   "location": "London, England",
   "url": "https://jobs.ashbyhq.com/redis/f47155e6-bcac-4e8d-8bfc-cb8903e4d1f7",
+  "source": "ATS/ashby",
+  "slug": "redis",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Enterprise Sales Development Representative - German speaking",
+  "company": "Redis",
+  "location": "London, England",
+  "url": "https://jobs.ashbyhq.com/redis/bc07c928-b183-46ee-86ee-81e4d5d53fa5",
   "source": "ATS/ashby",
   "slug": "redis",
   "sector": "cloudinfra",
@@ -342,7 +362,7 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "location": "Remote, EMEA; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
@@ -352,8 +372,18 @@
  {
   "title": "Business Development Representative, Turkish Speaking",
   "company": "GitLab",
-  "location": "Remote Ireland; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
+  "location": "Remote Ireland; Remote, France; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8784553002",
+  "source": "ATS/greenhouse",
+  "slug": "gitlab",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative",
+  "company": "GitLab",
+  "location": "Remote, North America",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8530337002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -623,7 +653,7 @@
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
   "sector": "salestech_b2b",
