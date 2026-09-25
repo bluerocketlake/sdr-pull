@@ -30,6 +30,16 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Representative, SME & Growth",
+  "company": "Airwallex",
+  "location": "US - Remote",
+  "url": "https://jobs.ashbyhq.com/airwallex/6d428793-ebe2-4ba5-8134-7511f1c2938a",
+  "source": "ATS/ashby",
+  "slug": "airwallex",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Manager, Sales Development, SME & Growth",
   "company": "Airwallex",
   "location": "US - Remote",
@@ -50,22 +60,22 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative, SME & Growth",
-  "company": "Airwallex",
-  "location": "US - Remote",
-  "url": "https://jobs.ashbyhq.com/airwallex/3e4d5cb5-598b-4db3-9ae4-ca53a4cd6e00",
-  "source": "ATS/ashby",
-  "slug": "airwallex",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Business Development Representative",
   "company": "Paddle",
   "location": "UK",
   "url": "https://jobs.ashbyhq.com/paddle/008fabd1-7f7a-41f0-a8e2-7111e20c5ee4",
   "source": "ATS/ashby",
   "slug": "paddle",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative",
+  "company": "Yapily",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/EE7B219746",
+  "source": "ATS/workable",
+  "slug": "yapily",
   "sector": "fintech",
   "salary": ""
  },
@@ -157,6 +167,16 @@
   "source": "ATS/ashby",
   "slug": "vertice",
   "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative (EMEA)",
+  "company": "Docker",
+  "location": "England",
+  "url": "https://jobs.ashbyhq.com/docker/221dff90-2b30-4977-958a-8838f43c6d38",
+  "source": "ATS/ashby",
+  "slug": "docker",
+  "sector": "cloudinfra",
   "salary": ""
  },
  {
@@ -362,8 +382,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, EMEA; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "location": "Remote, North America",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -497,6 +517,16 @@
   "source": "ATS/greenhouse",
   "slug": "hightouch",
   "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Majors Sales Development Representative UK",
+  "company": "Cato Networks",
+  "location": "London, England, United Kingdom",
+  "url": "https://www.catonetworks.com/careers/careers-post/4981210101?gh_jid=4981210101",
+  "source": "ATS/greenhouse",
+  "slug": "catonetworks",
+  "sector": "cybersecurity",
   "salary": ""
  },
  {
@@ -716,6 +746,16 @@
   "url": "https://job-boards.greenhouse.io/cresta/jobs/5285534008",
   "source": "ATS/greenhouse",
   "slug": "cresta",
+  "sector": "salestech_b2b",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative",
+  "company": "Airtable",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/airtable/jobs/8842286002",
+  "source": "ATS/greenhouse",
+  "slug": "airtable",
   "sector": "salestech_b2b",
   "salary": ""
  },

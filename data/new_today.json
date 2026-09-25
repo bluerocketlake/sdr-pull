@@ -1,52 +1,12 @@
 [
  {
-  "title": "Inside Sales Representative - EMEA",
-  "company": "Elliptic",
-  "location": "London, United Kingdom",
-  "url": "https://jobs.ashbyhq.com/elliptic/7d116372-5f33-49cb-aa56-04ffc55e9cc0",
-  "source": "ATS/ashby",
-  "slug": "elliptic",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative - DACH Territory",
-  "company": "Cribl",
-  "location": "Remote - London, United Kingdom",
-  "url": "https://cribl.io/job-detail/?gh_jid=6077488004",
+  "title": "Majors Sales Development Representative UK",
+  "company": "Cato Networks",
+  "location": "London, England, United Kingdom",
+  "url": "https://www.catonetworks.com/careers/careers-post/4981210101?gh_jid=4981210101",
   "source": "ATS/greenhouse",
-  "slug": "cribl",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative - French speaking",
-  "company": "Redis",
-  "location": "London, England",
-  "url": "https://jobs.ashbyhq.com/redis/a50e91a6-8e70-443a-9d17-2738f5473d54",
-  "source": "ATS/ashby",
-  "slug": "redis",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Enterprise Sales Development Representative - German speaking",
-  "company": "Redis",
-  "location": "London, England",
-  "url": "https://jobs.ashbyhq.com/redis/bc07c928-b183-46ee-86ee-81e4d5d53fa5",
-  "source": "ATS/ashby",
-  "slug": "redis",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative",
-  "company": "GitLab",
-  "location": "Remote, North America",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8530337002",
-  "source": "ATS/greenhouse",
-  "slug": "gitlab",
-  "sector": "cloudinfra",
+  "slug": "catonetworks",
+  "sector": "cybersecurity",
   "salary": ""
  }
 ]
