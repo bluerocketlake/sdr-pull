@@ -40,16 +40,6 @@
   "salary": ""
  },
  {
-  "title": "Manager, Sales Development, SME & Growth",
-  "company": "Airwallex",
-  "location": "US - Remote",
-  "url": "https://jobs.ashbyhq.com/airwallex/884bef23-85b9-44be-8497-1a3a1101c04d",
-  "source": "ATS/ashby",
-  "slug": "airwallex",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Manager, Sales Development Enterprise UK",
   "company": "Airwallex",
   "location": "UK - London",
@@ -140,16 +130,6 @@
   "salary": ""
  },
  {
-  "title": "Business Development Executive, Public Sector (EMEA)",
-  "company": "TRM Labs",
-  "location": "United Kingdom",
-  "url": "https://jobs.ashbyhq.com/trm-labs/fa2669bc-c77f-42a3-bae5-2c71d16ecca5",
-  "source": "ATS/ashby",
-  "slug": "trm-labs",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Business Development Executive, Financial Institutions (EMEA)",
   "company": "TRM Labs",
   "location": "United Kingdom",
@@ -174,6 +154,16 @@
   "company": "Docker",
   "location": "England",
   "url": "https://jobs.ashbyhq.com/docker/221dff90-2b30-4977-958a-8838f43c6d38",
+  "source": "ATS/ashby",
+  "slug": "docker",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative (DACH)",
+  "company": "Docker",
+  "location": "England",
+  "url": "https://jobs.ashbyhq.com/docker/af557021-4351-4529-bf57-0552dfbef021",
   "source": "ATS/ashby",
   "slug": "docker",
   "sector": "cloudinfra",
@@ -382,8 +372,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, North America",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
+  "location": "Remote, EMEA; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -603,19 +593,9 @@
   "title": "Inside Sales Representative, SMB",
   "company": "Keeper Security",
   "location": "Remote, US",
-  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4107820009",
+  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4317310009",
   "source": "ATS/greenhouse",
   "slug": "keepersecurity",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative",
-  "company": "BeyondTrust",
-  "location": "Hybrid Manchester, UK",
-  "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8156199",
-  "source": "ATS/greenhouse",
-  "slug": "beyondtrust",
   "sector": "cybersecurity",
   "salary": ""
  },
@@ -624,6 +604,16 @@
   "company": "BeyondTrust",
   "location": "Hybrid Manchester, UK",
   "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8175068",
+  "source": "ATS/greenhouse",
+  "slug": "beyondtrust",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
+  "title": "Partner Business Development Representative",
+  "company": "BeyondTrust",
+  "location": "Hybrid Manchester, UK",
+  "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8231888",
   "source": "ATS/greenhouse",
   "slug": "beyondtrust",
   "sector": "cybersecurity",
@@ -683,7 +673,7 @@
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
   "sector": "salestech_b2b",
