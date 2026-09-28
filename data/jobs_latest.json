@@ -60,6 +60,16 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Representative",
+  "company": "Yapily",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/EE7B219746",
+  "source": "ATS/workable",
+  "slug": "yapily",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Manager",
   "company": "Funding Circle",
   "location": "London",
@@ -86,6 +96,16 @@
   "url": "https://jobs.ashbyhq.com/teya/6840cc2b-e727-465c-973d-34ab289fa6fc",
   "source": "ATS/ashby",
   "slug": "teya",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative - German Speaking",
+  "company": "Nuvei",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/E12850D7C9",
+  "source": "ATS/workable",
+  "slug": "nuvei",
   "sector": "fintech",
   "salary": ""
  },
@@ -352,8 +372,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, North America",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
+  "location": "Remote, EMEA; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -573,7 +593,7 @@
   "title": "Inside Sales Representative, SMB",
   "company": "Keeper Security",
   "location": "Remote, US",
-  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4317310009",
+  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4107820009",
   "source": "ATS/greenhouse",
   "slug": "keepersecurity",
   "sector": "cybersecurity",
@@ -614,16 +634,6 @@
   "company": "Abnormal Security",
   "location": "Remote - UK",
   "url": "https://abnormal.ai/careers/jobs/7998387003?gh_jid=7998387003",
-  "source": "ATS/greenhouse",
-  "slug": "abnormalsecurity",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative, UKI",
-  "company": "Abnormal Security",
-  "location": "Remote - UK",
-  "url": "https://abnormal.ai/careers/jobs/7998333003?gh_jid=7998333003",
   "source": "ATS/greenhouse",
   "slug": "abnormalsecurity",
   "sector": "cybersecurity",
