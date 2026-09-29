@@ -1,1 +1,32 @@
-[]
+[
+ {
+  "title": "New Business Sales Executive",
+  "company": "PPRO",
+  "location": "London",
+  "url": "https://jobs.lever.co/ppro/8e9d8716-6216-429c-9878-5d1fb0d5f3a1",
+  "source": "ATS/lever",
+  "slug": "ppro",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative",
+  "company": "Teya",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/teya/a845bc41-79f4-41e2-a793-2602085bdf48",
+  "source": "ATS/ashby",
+  "slug": "teya",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative | Switzerland | Remote",
+  "company": "Grafana Labs",
+  "location": "Switzerland (Remote)",
+  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6210490004",
+  "source": "ATS/greenhouse",
+  "slug": "grafanalabs",
+  "sector": "cloudinfra",
+  "salary": ""
+ }
+]

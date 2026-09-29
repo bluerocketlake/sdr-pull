@@ -30,22 +30,22 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative, SME & Growth",
-  "company": "Airwallex",
-  "location": "US - Remote",
-  "url": "https://jobs.ashbyhq.com/airwallex/6d428793-ebe2-4ba5-8134-7511f1c2938a",
-  "source": "ATS/ashby",
-  "slug": "airwallex",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Manager, Sales Development Enterprise UK",
   "company": "Airwallex",
   "location": "UK - London",
   "url": "https://jobs.ashbyhq.com/airwallex/7fc0f49a-3fa4-4dec-8e92-bb167e484dc0",
   "source": "ATS/ashby",
   "slug": "airwallex",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "New Business Sales Executive",
+  "company": "PPRO",
+  "location": "London",
+  "url": "https://jobs.lever.co/ppro/8e9d8716-6216-429c-9878-5d1fb0d5f3a1",
+  "source": "ATS/lever",
+  "slug": "ppro",
   "sector": "fintech",
   "salary": ""
  },
@@ -76,6 +76,16 @@
   "url": "https://jobs.ashbyhq.com/fundingcircle/d8f55110-423f-46e4-b213-d205c18b3531",
   "source": "ATS/ashby",
   "slug": "fundingcircle",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative",
+  "company": "Teya",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/teya/a845bc41-79f4-41e2-a793-2602085bdf48",
+  "source": "ATS/ashby",
+  "slug": "teya",
   "sector": "fintech",
   "salary": ""
  },
@@ -147,6 +157,16 @@
   "source": "ATS/ashby",
   "slug": "vertice",
   "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative | Switzerland | Remote",
+  "company": "Grafana Labs",
+  "location": "Switzerland (Remote)",
+  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6210490004",
+  "source": "ATS/greenhouse",
+  "slug": "grafanalabs",
+  "sector": "cloudinfra",
   "salary": ""
  },
  {
@@ -372,8 +392,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, EMEA; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "location": "Remote, North America",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -663,7 +683,7 @@
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
   "sector": "salestech_b2b",
