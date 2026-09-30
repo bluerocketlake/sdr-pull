@@ -1,32 +1,32 @@
 [
  {
-  "title": "New Business Sales Executive",
-  "company": "PPRO",
-  "location": "London",
-  "url": "https://jobs.lever.co/ppro/8e9d8716-6216-429c-9878-5d1fb0d5f3a1",
-  "source": "ATS/lever",
-  "slug": "ppro",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative",
-  "company": "Teya",
-  "location": "London",
-  "url": "https://jobs.ashbyhq.com/teya/a845bc41-79f4-41e2-a793-2602085bdf48",
+  "title": "Sales Development Representative - Nordics",
+  "company": "Pleo",
+  "location": "United Kingdom",
+  "url": "https://jobs.ashbyhq.com/pleo/5b0f0144-e153-4468-a626-3baf79e2342c",
   "source": "ATS/ashby",
-  "slug": "teya",
+  "slug": "pleo",
   "sector": "fintech",
   "salary": ""
  },
  {
-  "title": "Sales Development Representative | Switzerland | Remote",
-  "company": "Grafana Labs",
-  "location": "Switzerland (Remote)",
-  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6210490004",
+  "title": "Business Development Representative  (French Speaker)",
+  "company": "Vertice",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/vertice/3add241e-7323-4fff-ae9b-c4d162474462",
+  "source": "ATS/ashby",
+  "slug": "vertice",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Enterprise Sales Development Representative UK",
+  "company": "Cato Networks",
+  "location": "London, England, United Kingdom",
+  "url": "https://www.catonetworks.com/careers/careers-post/4981210101?gh_jid=4981210101",
   "source": "ATS/greenhouse",
-  "slug": "grafanalabs",
-  "sector": "cloudinfra",
+  "slug": "catonetworks",
+  "sector": "cybersecurity",
   "salary": ""
  }
 ]

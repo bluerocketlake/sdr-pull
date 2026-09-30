@@ -20,6 +20,16 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Representative - Nordics",
+  "company": "Pleo",
+  "location": "United Kingdom",
+  "url": "https://jobs.ashbyhq.com/pleo/5b0f0144-e153-4468-a626-3baf79e2342c",
+  "source": "ATS/ashby",
+  "slug": "pleo",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative, EMEA",
   "company": "Airwallex",
   "location": "UK - London",
@@ -60,16 +70,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative",
-  "company": "Yapily",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/EE7B219746",
-  "source": "ATS/workable",
-  "slug": "yapily",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Sales Development Manager",
   "company": "Funding Circle",
   "location": "London",
@@ -83,7 +83,7 @@
   "title": "Business Development Representative",
   "company": "Teya",
   "location": "London",
-  "url": "https://jobs.ashbyhq.com/teya/a845bc41-79f4-41e2-a793-2602085bdf48",
+  "url": "https://jobs.ashbyhq.com/teya/64c30ba0-c6f3-433e-9949-a40cf3829ad1",
   "source": "ATS/ashby",
   "slug": "teya",
   "sector": "fintech",
@@ -106,16 +106,6 @@
   "url": "https://jobs.ashbyhq.com/teya/6840cc2b-e727-465c-973d-34ab289fa6fc",
   "source": "ATS/ashby",
   "slug": "teya",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative - German Speaking",
-  "company": "Nuvei",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/E12850D7C9",
-  "source": "ATS/workable",
-  "slug": "nuvei",
   "sector": "fintech",
   "salary": ""
  },
@@ -146,6 +136,16 @@
   "url": "https://jobs.ashbyhq.com/trm-labs/e597ea87-036f-41b8-9452-9a37d541f08f",
   "source": "ATS/ashby",
   "slug": "trm-labs",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative  (French Speaker)",
+  "company": "Vertice",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/vertice/3add241e-7323-4fff-ae9b-c4d162474462",
+  "source": "ATS/ashby",
+  "slug": "vertice",
   "sector": "fintech",
   "salary": ""
  },
@@ -392,8 +392,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, North America",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
+  "location": "Remote, EMEA; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -436,26 +436,6 @@
   "url": "https://jobs.ashbyhq.com/incident/9310b907-e008-4d7d-a898-e82db447d97f",
   "source": "ATS/ashby",
   "slug": "incident",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative - London",
-  "company": "PagerDuty",
-  "location": "London",
-  "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6144822004",
-  "source": "ATS/greenhouse",
-  "slug": "pagerduty",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative - DACH",
-  "company": "Fivetran",
-  "location": "London, England, United Kingdom",
-  "url": "https://www.fivetran.com/careers/job?gh_jid=7857955003",
-  "source": "ATS/greenhouse",
-  "slug": "fivetran",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -530,7 +510,7 @@
   "salary": ""
  },
  {
-  "title": "Majors Sales Development Representative UK",
+  "title": "Enterprise Sales Development Representative UK",
   "company": "Cato Networks",
   "location": "London, England, United Kingdom",
   "url": "https://www.catonetworks.com/careers/careers-post/4981210101?gh_jid=4981210101",
@@ -660,6 +640,16 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Representative, UKI",
+  "company": "Abnormal Security",
+  "location": "Remote - UK",
+  "url": "https://abnormal.ai/careers/jobs/7998333003?gh_jid=7998333003",
+  "source": "ATS/greenhouse",
+  "slug": "abnormalsecurity",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
   "title": "Business Development Representative [German Fluency]",
   "company": "Vanta",
   "location": "London, UK",
@@ -683,7 +673,7 @@
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
   "sector": "salestech_b2b",
@@ -726,16 +716,6 @@
   "url": "https://www.zoominfo.com/careers?gh_jid=7795003002",
   "source": "ATS/greenhouse",
   "slug": "zoominfo",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative",
-  "company": "Attio",
-  "location": "London",
-  "url": "https://jobs.ashbyhq.com/attio/ecb92574-646c-4cf3-8156-f2899c540eca",
-  "source": "ATS/ashby",
-  "slug": "attio",
   "sector": "salestech_b2b",
   "salary": ""
  },
