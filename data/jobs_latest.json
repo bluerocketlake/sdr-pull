@@ -50,22 +50,22 @@
   "salary": ""
  },
  {
-  "title": "New Business Sales Executive",
-  "company": "PPRO",
-  "location": "London",
-  "url": "https://jobs.lever.co/ppro/8e9d8716-6216-429c-9878-5d1fb0d5f3a1",
-  "source": "ATS/lever",
-  "slug": "ppro",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Business Development Representative",
   "company": "Paddle",
   "location": "UK",
   "url": "https://jobs.ashbyhq.com/paddle/008fabd1-7f7a-41f0-a8e2-7111e20c5ee4",
   "source": "ATS/ashby",
   "slug": "paddle",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative",
+  "company": "Yapily",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/EE7B219746",
+  "source": "ATS/workable",
+  "slug": "yapily",
   "sector": "fintech",
   "salary": ""
  },
@@ -104,6 +104,16 @@
   "company": "Teya",
   "location": "London",
   "url": "https://jobs.ashbyhq.com/teya/6840cc2b-e727-465c-973d-34ab289fa6fc",
+  "source": "ATS/ashby",
+  "slug": "teya",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative - Midlands",
+  "company": "Teya",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/teya/0a031d04-d2ea-4606-8de0-223aea24650e",
   "source": "ATS/ashby",
   "slug": "teya",
   "sector": "fintech",
@@ -200,16 +210,6 @@
   "salary": ""
  },
  {
-  "title": "Partner Business Development Representative",
-  "company": "JFrog",
-  "location": "London, UK",
-  "url": "https://join.jfrog.com/job/?job=7978704&gh_jid=7978704",
-  "source": "ATS/greenhouse",
-  "slug": "jfrog",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
   "title": "Inside Sales Representative (Junior Account Executive)",
   "company": "Sysdig",
   "location": "Flexible - United Kingdom",
@@ -256,6 +256,16 @@
   "url": "https://jobs.ashbyhq.com/snowflake/b9bd62f1-ad91-423a-a680-cf9366960976",
   "source": "ATS/ashby",
   "slug": "snowflake",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative",
+  "company": "SingleStore",
+  "location": "United Kingdom",
+  "url": "https://job-boards.greenhouse.io/singlestore/jobs/8099166",
+  "source": "ATS/greenhouse",
+  "slug": "singlestore",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -530,6 +540,16 @@
   "salary": ""
  },
  {
+  "title": "Business Development Representative - UK (Apono)",
+  "company": "1Password",
+  "location": "London, UK",
+  "url": "https://jobs.ashbyhq.com/1password/575b969a-01a4-49c4-9859-42c4306316a1",
+  "source": "ATS/ashby",
+  "slug": "1password",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative",
   "company": "Bitwarden",
   "location": "Remote, U.S.",
@@ -673,19 +693,9 @@
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative, EMEA",
-  "company": "Outreach",
-  "location": "London",
-  "url": "https://jobs.lever.co/outreach/f856290a-e62e-4748-9247-2728acd03360",
-  "source": "ATS/lever",
-  "slug": "outreach",
   "sector": "salestech_b2b",
   "salary": ""
  },
