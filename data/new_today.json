@@ -1,31 +1,11 @@
 [
  {
-  "title": "Business Development Representative - Midlands",
-  "company": "Teya",
-  "location": "London",
-  "url": "https://jobs.ashbyhq.com/teya/0a031d04-d2ea-4606-8de0-223aea24650e",
-  "source": "ATS/ashby",
-  "slug": "teya",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative",
-  "company": "SingleStore",
-  "location": "United Kingdom",
-  "url": "https://job-boards.greenhouse.io/singlestore/jobs/8099166",
-  "source": "ATS/greenhouse",
-  "slug": "singlestore",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative - UK (Apono)",
-  "company": "1Password",
+  "title": "Sales Development Representative",
+  "company": "Endor Labs",
   "location": "London, UK",
-  "url": "https://jobs.ashbyhq.com/1password/575b969a-01a4-49c4-9859-42c4306316a1",
-  "source": "ATS/ashby",
-  "slug": "1password",
+  "url": "https://job-boards.greenhouse.io/endorlabs/jobs/4739649005",
+  "source": "ATS/greenhouse",
+  "slug": "endorlabs",
   "sector": "cybersecurity",
   "salary": ""
  }

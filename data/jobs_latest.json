@@ -613,7 +613,7 @@
   "title": "Inside Sales Representative, SMB",
   "company": "Keeper Security",
   "location": "Remote, US",
-  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4107820009",
+  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4317310009",
   "source": "ATS/greenhouse",
   "slug": "keepersecurity",
   "sector": "cybersecurity",
@@ -686,6 +686,16 @@
   "url": "https://jobs.ashbyhq.com/drata/84019da9-a394-4dec-a7e7-bbf0bb941b30",
   "source": "ATS/ashby",
   "slug": "drata",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative",
+  "company": "Endor Labs",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/endorlabs/jobs/4739649005",
+  "source": "ATS/greenhouse",
+  "slug": "endorlabs",
   "sector": "cybersecurity",
   "salary": ""
  },
