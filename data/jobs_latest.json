@@ -60,16 +60,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative",
-  "company": "Yapily",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/EE7B219746",
-  "source": "ATS/workable",
-  "slug": "yapily",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Sales Development Manager",
   "company": "Funding Circle",
   "location": "London",
@@ -402,18 +392,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, EMEA; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
-  "source": "ATS/greenhouse",
-  "slug": "gitlab",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative, Turkish Speaking",
-  "company": "GitLab",
-  "location": "Remote Ireland; Remote, France; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8784553002",
+  "location": "Remote, North America",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -486,36 +466,6 @@
   "url": "https://www.fivetran.com/careers/job?gh_jid=7999371003",
   "source": "ATS/greenhouse",
   "slug": "fivetran",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative, Ad Studio",
-  "company": "Hightouch",
-  "location": "Remote",
-  "url": "https://job-boards.greenhouse.io/hightouch/jobs/6117961004",
-  "source": "ATS/greenhouse",
-  "slug": "hightouch",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative, EMEA",
-  "company": "Hightouch",
-  "location": "London",
-  "url": "https://job-boards.greenhouse.io/hightouch/jobs/6180382004",
-  "source": "ATS/greenhouse",
-  "slug": "hightouch",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative, EMEA (German Speaking)",
-  "company": "Hightouch",
-  "location": "London / Austria / Switzerland / Netherlands",
-  "url": "https://job-boards.greenhouse.io/hightouch/jobs/6110361004",
-  "source": "ATS/greenhouse",
-  "slug": "hightouch",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -613,7 +563,7 @@
   "title": "Inside Sales Representative, SMB",
   "company": "Keeper Security",
   "location": "Remote, US",
-  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4317310009",
+  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4107820009",
   "source": "ATS/greenhouse",
   "slug": "keepersecurity",
   "sector": "cybersecurity",
@@ -666,6 +616,16 @@
   "url": "https://abnormal.ai/careers/jobs/7998333003?gh_jid=7998333003",
   "source": "ATS/greenhouse",
   "slug": "abnormalsecurity",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative",
+  "company": "Recorded Future",
+  "location": "London, England, UK",
+  "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8859077002",
+  "source": "ATS/greenhouse",
+  "slug": "recordedfuture",
   "sector": "cybersecurity",
   "salary": ""
  },
