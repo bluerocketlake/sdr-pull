@@ -90,6 +90,16 @@
   "salary": ""
  },
  {
+  "title": "Business Development Representative - South East",
+  "company": "Teya",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/teya/48693995-5cba-4886-a6d2-2dcc301eb367",
+  "source": "ATS/ashby",
+  "slug": "teya",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative - US",
   "company": "Fingerprint",
   "location": "Remote",
@@ -280,7 +290,7 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative, UK&I",
+  "title": "Business Development Representative, UK&I",
   "company": "Vercel",
   "location": "Hybrid - London",
   "url": "https://job-boards.greenhouse.io/vercel/jobs/5557835004",
@@ -372,8 +382,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, North America",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
+  "location": "Remote, EMEA; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -600,16 +610,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative, UKI",
-  "company": "Abnormal Security",
-  "location": "Remote - UK",
-  "url": "https://abnormal.ai/careers/jobs/7998333003?gh_jid=7998333003",
-  "source": "ATS/greenhouse",
-  "slug": "abnormalsecurity",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
   "title": "Business Development Representative",
   "company": "Recorded Future",
   "location": "London, England, UK",
@@ -653,7 +653,7 @@
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
   "sector": "salestech_b2b",
