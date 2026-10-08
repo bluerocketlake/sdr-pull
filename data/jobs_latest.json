@@ -82,7 +82,7 @@
  {
   "title": "Business Development Representative - Midlands",
   "company": "Teya",
-  "location": "London",
+  "location": "Birmingham",
   "url": "https://jobs.ashbyhq.com/teya/0a031d04-d2ea-4606-8de0-223aea24650e",
   "source": "ATS/ashby",
   "slug": "teya",
@@ -382,8 +382,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, EMEA; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "location": "Remote Ireland; Remote, France; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872457002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -410,42 +410,22 @@
   "salary": ""
  },
  {
+  "title": "Inside Sales - Representative (Active) 2",
+  "company": "Twilio",
+  "location": "Remote - United Kingdom",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8256373",
+  "source": "ATS/greenhouse",
+  "slug": "twilio",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
   "title": "Business Development Representative",
   "company": "Incident.io",
   "location": "London",
   "url": "https://jobs.ashbyhq.com/incident/9310b907-e008-4d7d-a898-e82db447d97f",
   "source": "ATS/ashby",
   "slug": "incident",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative, Enterprise",
-  "company": "Fivetran",
-  "location": "London, England, United Kingdom",
-  "url": "https://www.fivetran.com/careers/job?gh_jid=7990897003",
-  "source": "ATS/greenhouse",
-  "slug": "fivetran",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative, Enterprise - Dutch Speaking",
-  "company": "Fivetran",
-  "location": "London, England, United Kingdom",
-  "url": "https://www.fivetran.com/careers/job?gh_jid=7999373003",
-  "source": "ATS/greenhouse",
-  "slug": "fivetran",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative, Enterprise - French Speaking",
-  "company": "Fivetran",
-  "location": "London, England, United Kingdom",
-  "url": "https://www.fivetran.com/careers/job?gh_jid=7999375003",
-  "source": "ATS/greenhouse",
-  "slug": "fivetran",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -563,7 +543,7 @@
   "title": "Inside Sales Representative, SMB",
   "company": "Keeper Security",
   "location": "Remote, US",
-  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4317310009",
+  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4107820009",
   "source": "ATS/greenhouse",
   "slug": "keepersecurity",
   "sector": "cybersecurity",
@@ -594,16 +574,6 @@
   "company": "Abnormal Security",
   "location": "Remote - UK",
   "url": "https://abnormal.ai/careers/jobs/7998348003?gh_jid=7998348003",
-  "source": "ATS/greenhouse",
-  "slug": "abnormalsecurity",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative, German Speaking",
-  "company": "Abnormal Security",
-  "location": "Remote - UK",
-  "url": "https://abnormal.ai/careers/jobs/7998387003?gh_jid=7998387003",
   "source": "ATS/greenhouse",
   "slug": "abnormalsecurity",
   "sector": "cybersecurity",

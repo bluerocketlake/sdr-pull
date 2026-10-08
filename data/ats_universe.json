@@ -1426,5 +1426,11 @@
   "sector": "cloudinfra",
   "ats": "ashby",
   "slug": "snyk"
+ },
+ {
+  "company": "Moneybox",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "moneybox"
  }
 ]
