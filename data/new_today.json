@@ -1,12 +1,42 @@
 [
  {
-  "title": "Inside Sales - Representative (Active) 2",
-  "company": "Twilio",
-  "location": "Remote - United Kingdom",
-  "url": "https://job-boards.greenhouse.io/twilio/jobs/8256373",
+  "title": "Business Development Representative - Surrey",
+  "company": "Teya",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/teya/64c30ba0-c6f3-433e-9949-a40cf3829ad1",
+  "source": "ATS/ashby",
+  "slug": "teya",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative, DACH",
+  "company": "Vanta",
+  "location": "London, UK",
+  "url": "https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd",
+  "source": "ATS/ashby",
+  "slug": "vanta",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
+  "title": "Senior Sales Development Representative",
+  "company": "Endor Labs",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/endorlabs/jobs/4739649005",
   "source": "ATS/greenhouse",
-  "slug": "twilio",
-  "sector": "cloudinfra",
+  "slug": "endorlabs",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
+  "title": "Senior Sales Development Representative",
+  "company": "ZoomInfo",
+  "location": "London, United Kingdom",
+  "url": "https://www.zoominfo.com/careers?gh_jid=8876046002",
+  "source": "ATS/greenhouse",
+  "slug": "zoominfo",
+  "sector": "salestech_b2b",
   "salary": ""
  }
 ]
