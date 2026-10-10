@@ -1,15 +1,5 @@
 [
  {
-  "title": "Sales Development Representative",
-  "company": "GoCardless",
-  "location": "Leeds, UK",
-  "url": "https://job-boards.greenhouse.io/gocardless/jobs/7988744",
-  "source": "ATS/greenhouse",
-  "slug": "gocardless",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Sales Development Representative - Nordics",
   "company": "Pleo",
   "location": "United Kingdom",
@@ -382,8 +372,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote Ireland; Remote, France; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872457002",
+  "location": "Remote, EMEA; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -533,7 +523,7 @@
   "title": "Inside Sales Representative, SMB",
   "company": "Keeper Security",
   "location": "Remote, US",
-  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4107820009",
+  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4317310009",
   "source": "ATS/greenhouse",
   "slug": "keepersecurity",
   "sector": "cybersecurity",
@@ -613,7 +603,7 @@
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
   "sector": "salestech_b2b",
