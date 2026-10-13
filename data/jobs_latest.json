@@ -1,5 +1,15 @@
 [
  {
+  "title": "Business Development Executive",
+  "company": "Tide",
+  "location": "United Kingdom",
+  "url": "https://job-boards.greenhouse.io/tide/jobs/8002207003",
+  "source": "ATS/greenhouse",
+  "slug": "tide",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative - Nordics",
   "company": "Pleo",
   "location": "United Kingdom",
@@ -213,7 +223,7 @@
   "title": "Sales Development Representative",
   "company": "Snowflake",
   "location": "GB-London",
-  "url": "https://jobs.ashbyhq.com/snowflake/b1c29819-f084-4cdd-a4bb-e8adc57a8d1b",
+  "url": "https://jobs.ashbyhq.com/snowflake/e2b03b7a-2c85-4599-8b04-8757c582d226",
   "source": "ATS/ashby",
   "slug": "snowflake",
   "sector": "cloudinfra",
@@ -354,16 +364,6 @@
   "company": "Coder",
   "location": "United Kingdom",
   "url": "https://jobs.ashbyhq.com/coder/9605615c-db33-496d-8173-fc9caf3b6869",
-  "source": "ATS/ashby",
-  "slug": "coder",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Senior Sales Development Representative (UK)",
-  "company": "Coder",
-  "location": "London",
-  "url": "https://jobs.ashbyhq.com/coder/c54c5de4-2380-4672-a15f-820e1ac09410",
   "source": "ATS/ashby",
   "slug": "coder",
   "sector": "cloudinfra",
@@ -523,7 +523,7 @@
   "title": "Inside Sales Representative, SMB",
   "company": "Keeper Security",
   "location": "Remote, US",
-  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4317310009",
+  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4107820009",
   "source": "ATS/greenhouse",
   "slug": "keepersecurity",
   "sector": "cybersecurity",
@@ -666,16 +666,6 @@
   "url": "https://job-boards.greenhouse.io/cresta/jobs/5285534008",
   "source": "ATS/greenhouse",
   "slug": "cresta",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative",
-  "company": "Airtable",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/airtable/jobs/8842286002",
-  "source": "ATS/greenhouse",
-  "slug": "airtable",
   "sector": "salestech_b2b",
   "salary": ""
  },
