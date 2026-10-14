@@ -50,6 +50,16 @@
   "salary": ""
  },
  {
+  "title": "Business Development Representative (Mid-Market & Enterprise)",
+  "company": "Dojo",
+  "location": "London",
+  "url": "https://www.dojo.careers/jobs/4761482101/?gh_jid=4761482101",
+  "source": "ATS/greenhouse",
+  "slug": "dojo",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Business Development Representative - Surrey",
   "company": "Teya",
   "location": "London",
@@ -523,7 +533,7 @@
   "title": "Inside Sales Representative, SMB",
   "company": "Keeper Security",
   "location": "Remote, US",
-  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4107820009",
+  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4317310009",
   "source": "ATS/greenhouse",
   "slug": "keepersecurity",
   "sector": "cybersecurity",
@@ -534,16 +544,6 @@
   "company": "BeyondTrust",
   "location": "Hybrid Manchester, UK",
   "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8175068",
-  "source": "ATS/greenhouse",
-  "slug": "beyondtrust",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Partner Business Development Representative",
-  "company": "BeyondTrust",
-  "location": "Hybrid Manchester, UK",
-  "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8231888",
   "source": "ATS/greenhouse",
   "slug": "beyondtrust",
   "sector": "cybersecurity",
