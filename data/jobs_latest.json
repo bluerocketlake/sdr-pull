@@ -110,12 +110,12 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative - US",
-  "company": "Fingerprint",
-  "location": "Remote",
-  "url": "https://fingerprint.com/careers/jobs/apply/?gh_jid=6115777004",
-  "source": "ATS/greenhouse",
-  "slug": "fingerprint",
+  "title": "SDR Academy",
+  "company": "Nuvei",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/37736BE3D5",
+  "source": "ATS/workable",
+  "slug": "nuvei",
   "sector": "fintech",
   "salary": ""
  },
@@ -206,16 +206,6 @@
   "url": "https://jobs.lever.co/sysdig/f6e8848f-dc19-4577-96cd-fc9e55b56c9b",
   "source": "ATS/lever",
   "slug": "sysdig",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative - DACH Territory",
-  "company": "Cribl",
-  "location": "Remote - London, United Kingdom",
-  "url": "https://cribl.io/job-detail/?gh_jid=6077488004",
-  "source": "ATS/greenhouse",
-  "slug": "cribl",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -382,8 +372,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, EMEA; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "location": "Remote, North America",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -666,6 +656,16 @@
   "url": "https://job-boards.greenhouse.io/cresta/jobs/5285534008",
   "source": "ATS/greenhouse",
   "slug": "cresta",
+  "sector": "salestech_b2b",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative",
+  "company": "Airtable",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/airtable/jobs/8842286002",
+  "source": "ATS/greenhouse",
+  "slug": "airtable",
   "sector": "salestech_b2b",
   "salary": ""
  },
