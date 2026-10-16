@@ -40,16 +40,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Manager",
-  "company": "Funding Circle",
-  "location": "London",
-  "url": "https://jobs.ashbyhq.com/fundingcircle/d8f55110-423f-46e4-b213-d205c18b3531",
-  "source": "ATS/ashby",
-  "slug": "fundingcircle",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Business Development Representative (Mid-Market & Enterprise)",
   "company": "Dojo",
   "location": "London",
@@ -110,16 +100,6 @@
   "salary": ""
  },
  {
-  "title": "SDR Academy",
-  "company": "Nuvei",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/37736BE3D5",
-  "source": "ATS/workable",
-  "slug": "nuvei",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Inside Sales Representative - EMEA",
   "company": "Elliptic",
   "location": "London, United Kingdom",
@@ -140,7 +120,7 @@
   "salary": ""
  },
  {
-  "title": "Business Development Representative  (French Speaker)",
+  "title": "Business Development Representative  (French Speaking)",
   "company": "Vertice",
   "location": "London",
   "url": "https://jobs.ashbyhq.com/vertice/3add241e-7323-4fff-ae9b-c4d162474462",
@@ -280,6 +260,16 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Representative",
+  "company": "Redis",
+  "location": "London, England",
+  "url": "https://jobs.ashbyhq.com/redis/bf4c06e8-71ac-4065-9d6b-3768a3df9cf2",
+  "source": "ATS/ashby",
+  "slug": "redis",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
   "title": "Business Development Representative , Startups",
   "company": "Vercel",
   "location": "Hybrid - London",
@@ -372,8 +362,18 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, North America",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
+  "location": "Remote, EMEA; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "source": "ATS/greenhouse",
+  "slug": "gitlab",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative, Italian Speaking",
+  "company": "GitLab",
+  "location": "Remote Ireland; Remote, France; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8882365002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -416,16 +416,6 @@
   "url": "https://jobs.ashbyhq.com/incident/9310b907-e008-4d7d-a898-e82db447d97f",
   "source": "ATS/ashby",
   "slug": "incident",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative, Enterprise - German Speaking",
-  "company": "Fivetran",
-  "location": "London, England, United Kingdom",
-  "url": "https://www.fivetran.com/careers/job?gh_jid=7999371003",
-  "source": "ATS/greenhouse",
-  "slug": "fivetran",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -494,16 +484,6 @@
   "company": "Keeper Security",
   "location": "Remote, US",
   "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4434582009",
-  "source": "ATS/greenhouse",
-  "slug": "keepersecurity",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Inside Sales Representative MSP, Mid-Market",
-  "company": "Keeper Security",
-  "location": "Remote, US",
-  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4301162009",
   "source": "ATS/greenhouse",
   "slug": "keepersecurity",
   "sector": "cybersecurity",
