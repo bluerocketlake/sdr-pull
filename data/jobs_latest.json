@@ -100,6 +100,16 @@
   "salary": ""
  },
  {
+  "title": "SDR Academy",
+  "company": "Nuvei",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/37736BE3D5",
+  "source": "ATS/workable",
+  "slug": "nuvei",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Inside Sales Representative - EMEA",
   "company": "Elliptic",
   "location": "London, United Kingdom",
@@ -124,16 +134,6 @@
   "company": "Vertice",
   "location": "London",
   "url": "https://jobs.ashbyhq.com/vertice/3add241e-7323-4fff-ae9b-c4d162474462",
-  "source": "ATS/ashby",
-  "slug": "vertice",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "BDR Manager - EMEA",
-  "company": "Vertice",
-  "location": "London",
-  "url": "https://jobs.ashbyhq.com/vertice/ce648655-de0c-4782-b4a7-a9d0424cb7df",
   "source": "ATS/ashby",
   "slug": "vertice",
   "sector": "fintech",
@@ -362,7 +362,7 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, EMEA; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "location": "Remote, France; Remote, Ireland; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
@@ -372,7 +372,7 @@
  {
   "title": "Business Development Representative, Italian Speaking",
   "company": "GitLab",
-  "location": "Remote Ireland; Remote, France; Remote, Netherlands; Remote, United Kingdom",
+  "location": "Remote Ireland; Remote, France; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8882365002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
@@ -636,16 +636,6 @@
   "url": "https://job-boards.greenhouse.io/cresta/jobs/5285534008",
   "source": "ATS/greenhouse",
   "slug": "cresta",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative",
-  "company": "Airtable",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/airtable/jobs/8842286002",
-  "source": "ATS/greenhouse",
-  "slug": "airtable",
   "sector": "salestech_b2b",
   "salary": ""
  },
