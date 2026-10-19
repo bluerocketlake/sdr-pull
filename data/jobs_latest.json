@@ -140,6 +140,16 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Representative | Sweden | Remote",
+  "company": "Grafana Labs",
+  "location": "Sweden (Remote)",
+  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6000726004",
+  "source": "ATS/greenhouse",
+  "slug": "grafanalabs",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative | Switzerland | Remote",
   "company": "Grafana Labs",
   "location": "Switzerland (Remote)",
@@ -520,10 +530,10 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative, Dutch speaking",
+  "title": "Sales Development Representative, Dutch Speaking",
   "company": "Abnormal Security",
   "location": "Remote - UK",
-  "url": "https://abnormal.ai/careers/jobs/7999760003?gh_jid=7999760003",
+  "url": "https://abnormal.ai/careers/jobs/8035807003?gh_jid=8035807003",
   "source": "ATS/greenhouse",
   "slug": "abnormalsecurity",
   "sector": "cybersecurity",
