@@ -10,16 +10,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative - Nordics",
-  "company": "Pleo",
-  "location": "United Kingdom",
-  "url": "https://jobs.ashbyhq.com/pleo/5b0f0144-e153-4468-a626-3baf79e2342c",
-  "source": "ATS/ashby",
-  "slug": "pleo",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Sales Development Representative, EMEA",
   "company": "Airwallex",
   "location": "UK - London",
@@ -50,20 +40,10 @@
   "salary": ""
  },
  {
-  "title": "Business Development Representative - Surrey",
-  "company": "Teya",
-  "location": "London",
-  "url": "https://jobs.ashbyhq.com/teya/64c30ba0-c6f3-433e-9949-a40cf3829ad1",
-  "source": "ATS/ashby",
-  "slug": "teya",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Business Development Representative",
   "company": "Teya",
   "location": "London",
-  "url": "https://jobs.ashbyhq.com/teya/a845bc41-79f4-41e2-a793-2602085bdf48",
+  "url": "https://jobs.ashbyhq.com/teya/64c30ba0-c6f3-433e-9949-a40cf3829ad1",
   "source": "ATS/ashby",
   "slug": "teya",
   "sector": "fintech",
@@ -450,6 +430,16 @@
   "salary": ""
  },
  {
+  "title": "International Business Development Representative - Nordics",
+  "company": "Chainguard",
+  "location": "Denmark - Remote; Norway - Remote; Sweden - Remote; United Kingdom - Remote",
+  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4722787006",
+  "source": "ATS/greenhouse",
+  "slug": "chainguard",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
   "title": "Business Development Representative - UK (Apono)",
   "company": "1Password",
   "location": "London, UK",
@@ -570,16 +560,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative - EMEA",
-  "company": "Drata",
-  "location": "Hybrid - London",
-  "url": "https://jobs.ashbyhq.com/drata/84019da9-a394-4dec-a7e7-bbf0bb941b30",
-  "source": "ATS/ashby",
-  "slug": "drata",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
   "title": "Senior Sales Development Representative",
   "company": "Endor Labs",
   "location": "London, UK",
@@ -650,7 +630,7 @@
   "salary": ""
  },
  {
-  "title": "Inside Sales Representative, EMEA",
+  "title": "Select BDR",
   "company": "Mixpanel",
   "location": "London, UK (Hybrid)",
   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8128070",

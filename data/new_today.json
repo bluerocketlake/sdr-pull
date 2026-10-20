@@ -1,12 +1,22 @@
 [
  {
-  "title": "Sales Development Representative | Sweden | Remote",
-  "company": "Grafana Labs",
-  "location": "Sweden (Remote)",
-  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6000726004",
+  "title": "International Business Development Representative - Nordics",
+  "company": "Chainguard",
+  "location": "Denmark - Remote; Norway - Remote; Sweden - Remote; United Kingdom - Remote",
+  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4722787006",
   "source": "ATS/greenhouse",
-  "slug": "grafanalabs",
-  "sector": "cloudinfra",
+  "slug": "chainguard",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
+  "title": "Select BDR",
+  "company": "Mixpanel",
+  "location": "London, UK (Hybrid)",
+  "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8128070",
+  "source": "ATS/greenhouse",
+  "slug": "mixpanel",
+  "sector": "salestech_b2b",
   "salary": ""
  }
 ]
