@@ -60,6 +60,16 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Representative",
+  "company": "Teya",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/teya/6840cc2b-e727-465c-973d-34ab289fa6fc",
+  "source": "ATS/ashby",
+  "slug": "teya",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Business Development Representative - Midlands",
   "company": "Teya",
   "location": "Birmingham",
@@ -102,7 +112,7 @@
  {
   "title": "Business Development Executive, Financial Institutions (EMEA)",
   "company": "TRM Labs",
-  "location": "United Kingdom",
+  "location": "London, United Kingdom",
   "url": "https://jobs.ashbyhq.com/trm-labs/e597ea87-036f-41b8-9452-9a37d541f08f",
   "source": "ATS/ashby",
   "slug": "trm-labs",
@@ -260,7 +270,7 @@
   "salary": ""
  },
  {
-  "title": "Business Development Representative , Startups",
+  "title": "Business Development Representative, Startups",
   "company": "Vercel",
   "location": "Hybrid - London",
   "url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004",
@@ -352,8 +362,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, France; Remote, Ireland; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "location": "Remote, North America",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -362,7 +372,7 @@
  {
   "title": "Business Development Representative, Italian Speaking",
   "company": "GitLab",
-  "location": "Remote Ireland; Remote, France; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
+  "location": "Remote Ireland; Remote, France; Remote, Spain; Remote, United Kingdom",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8882365002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
@@ -432,7 +442,7 @@
  {
   "title": "International Business Development Representative - Nordics",
   "company": "Chainguard",
-  "location": "Denmark - Remote; Norway - Remote; Sweden - Remote; United Kingdom - Remote",
+  "location": "Denmark - Remote; Sweden - Remote; United Kingdom - Remote",
   "url": "https://job-boards.greenhouse.io/chainguard/jobs/4722787006",
   "source": "ATS/greenhouse",
   "slug": "chainguard",
@@ -452,8 +462,8 @@
  {
   "title": "Sales Development Representative",
   "company": "Bitwarden",
-  "location": "Remote, U.S.",
-  "url": "https://bitwarden.com/careers/7985613003/?gh_jid=7985613003",
+  "location": "United Kingdom",
+  "url": "https://bitwarden.com/careers/7996319003/?gh_jid=7996319003",
   "source": "ATS/greenhouse",
   "slug": "bitwarden",
   "sector": "cybersecurity",
@@ -626,16 +636,6 @@
   "url": "https://job-boards.greenhouse.io/cresta/jobs/5285534008",
   "source": "ATS/greenhouse",
   "slug": "cresta",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
-  "title": "Select BDR",
-  "company": "Mixpanel",
-  "location": "London, UK (Hybrid)",
-  "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8128070",
-  "source": "ATS/greenhouse",
-  "slug": "mixpanel",
   "sector": "salestech_b2b",
   "salary": ""
  },
