@@ -30,6 +30,16 @@
   "salary": ""
  },
  {
+  "title": "Business Development Representative",
+  "company": "Paddle",
+  "location": "UK",
+  "url": "https://jobs.ashbyhq.com/paddle/008fabd1-7f7a-41f0-a8e2-7111e20c5ee4",
+  "source": "ATS/ashby",
+  "slug": "paddle",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Business Development Representative (Mid-Market & Enterprise)",
   "company": "Dojo",
   "location": "London",
@@ -86,16 +96,6 @@
   "url": "https://jobs.ashbyhq.com/teya/48693995-5cba-4886-a6d2-2dcc301eb367",
   "source": "ATS/ashby",
   "slug": "teya",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "SDR Academy",
-  "company": "Nuvei",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/37736BE3D5",
-  "source": "ATS/workable",
-  "slug": "nuvei",
   "sector": "fintech",
   "salary": ""
  },
@@ -362,8 +362,18 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, North America",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
+  "location": "Remote, France; Remote, Ireland; Remote, Spain; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "source": "ATS/greenhouse",
+  "slug": "gitlab",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative, German Speaking - UK/I",
+  "company": "GitLab",
+  "location": "Remote Ireland; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872457002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -442,7 +452,7 @@
  {
   "title": "International Business Development Representative - Nordics",
   "company": "Chainguard",
-  "location": "Denmark - Remote; Sweden - Remote; United Kingdom - Remote",
+  "location": "Denmark - Remote; Sweden - Remote",
   "url": "https://job-boards.greenhouse.io/chainguard/jobs/4722787006",
   "source": "ATS/greenhouse",
   "slug": "chainguard",
