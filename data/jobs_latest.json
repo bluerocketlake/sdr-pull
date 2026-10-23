@@ -100,6 +100,16 @@
   "salary": ""
  },
  {
+  "title": "SDR Academy",
+  "company": "Nuvei",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/37736BE3D5",
+  "source": "ATS/workable",
+  "slug": "nuvei",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Inside Sales Representative - EMEA",
   "company": "Elliptic",
   "location": "London, United Kingdom",
@@ -266,16 +276,6 @@
   "url": "https://jobs.ashbyhq.com/redis/bf4c06e8-71ac-4065-9d6b-3768a3df9cf2",
   "source": "ATS/ashby",
   "slug": "redis",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative, Startups",
-  "company": "Vercel",
-  "location": "Hybrid - London",
-  "url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004",
-  "source": "ATS/greenhouse",
-  "slug": "vercel",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -504,16 +504,6 @@
   "company": "Keeper Security",
   "location": "Remote, US",
   "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4434582009",
-  "source": "ATS/greenhouse",
-  "slug": "keepersecurity",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Inside Sales Representative MSP, SMB",
-  "company": "Keeper Security",
-  "location": "Remote, US",
-  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4257755009",
   "source": "ATS/greenhouse",
   "slug": "keepersecurity",
   "sector": "cybersecurity",
