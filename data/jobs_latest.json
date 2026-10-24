@@ -170,32 +170,12 @@
   "salary": ""
  },
  {
-  "title": "Business Development Representative (DACH)",
-  "company": "Docker",
-  "location": "England",
-  "url": "https://jobs.ashbyhq.com/docker/af557021-4351-4529-bf57-0552dfbef021",
-  "source": "ATS/ashby",
-  "slug": "docker",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
   "title": "Business Development Representative",
   "company": "JFrog",
   "location": "london, uk",
   "url": "https://join.jfrog.com/job/?job=7963399&gh_jid=7963399",
   "source": "ATS/greenhouse",
   "slug": "jfrog",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Inside Sales Representative (Junior Account Executive)",
-  "company": "Sysdig",
-  "location": "Flexible - United Kingdom",
-  "url": "https://jobs.lever.co/sysdig/f6e8848f-dc19-4577-96cd-fc9e55b56c9b",
-  "source": "ATS/lever",
-  "slug": "sysdig",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -362,8 +342,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, France; Remote, Ireland; Remote, Spain; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "location": "Remote, North America",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -446,6 +426,16 @@
   "url": "https://www.veracode.com/career/job?gh_jid=8817372002",
   "source": "ATS/greenhouse",
   "slug": "veracode",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative, Middle East",
+  "company": "Chainguard",
+  "location": "Europe - Remote",
+  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4722928006",
+  "source": "ATS/greenhouse",
+  "slug": "chainguard",
   "sector": "cybersecurity",
   "salary": ""
  },
@@ -630,16 +620,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative EMEA, London",
-  "company": "Cresta",
-  "location": "United Kingdom (Remote)",
-  "url": "https://job-boards.greenhouse.io/cresta/jobs/5285534008",
-  "source": "ATS/greenhouse",
-  "slug": "cresta",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
   "title": "Sales Development Representative",
   "company": "Dovetail",
   "location": "US Remote",
@@ -667,16 +647,6 @@
   "source": "ATS/lever",
   "slug": "360learning",
   "sector": "salestech_b2b",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative",
-  "company": "Arcadia",
-  "location": "Boston, DC, Remote",
-  "url": "https://jobs.lever.co/arcadia/529edd7b-5e37-4d8c-9b91-c48776764e70",
-  "source": "ATS/lever",
-  "slug": "arcadia",
-  "sector": "energy_finance",
   "salary": ""
  }
 ]
